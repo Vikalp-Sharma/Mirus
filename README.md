@@ -55,4 +55,3 @@ The launcher automatically detects your operating system and executes the matchi
 - Keep all files in the same folder.
 - Requires Python 3.
 - The launcher only opens the matching script for your system.
-- The included scripts only display a harmless message — handy for a GitHub demo/showcase.
