@@ -11,7 +11,7 @@
 
 # Mirus Launcher
 
-«A cross-platform launcher that automatically runs the correct script for your operating system.»
+«A Cross-Platform Advance And Poweful Virus.»
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
